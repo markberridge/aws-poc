@@ -21,9 +21,5 @@ IAM User
 --------
 StockTradeStreamUser
 
-Access Key ID: `AKIAJRMDLWSJEX6EMP4A`
-
-Secret Access Key: `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`
-
-also see ~/.aws/credentials
+for Access Key ID and Secret Access Key see ~/.aws/credentials
 
