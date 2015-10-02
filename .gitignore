@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+*.iml
+*.class
+.classpath
+.project
+.pmd
+.pmdruleset.xml
+.settings/
+target/
+bin/
+*~
+
+# Package Files #
+*.jar
+*.war
+*.ear
